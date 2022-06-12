@@ -16,3 +16,10 @@
 - There was a larger difference in the minimum temperatures within June and December. 
   The minimum temperature in June was 64 and the minimum temperature in December was 56.
   
+![Summary Statistics for December](https://user-images.githubusercontent.com/103302566/173214233-03010b13-d624-46a1-a523-bad811810ea3.png)
+![Summary Statistics for June](https://user-images.githubusercontent.com/103302566/173214234-6073e722-c3c8-4776-8257-78dae88ea3ac.png)
+
+
+## SUMMARY
+
+  
