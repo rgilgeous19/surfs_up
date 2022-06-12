@@ -30,6 +30,7 @@
   ![Precipitation Statistics](https://user-images.githubusercontent.com/103302566/173214546-2486f200-dc66-47ef-b652-38ca1dfc518d.png)
 
   Two additional queries that I would perform would be:
+  
   (1) a query to find out the wind levels throughout the year. We wouldn't want to set up a shop in 
       an area that would be affected by heavy winds. 
       
